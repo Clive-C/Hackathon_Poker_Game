@@ -1,0 +1,412 @@
+[
+    {
+        "id": 1,
+        "name": "Ace of Spade",
+        "value": 1,
+        "suit": "spades",
+        "img": "/CardDeck/ace_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 2,
+        "name": "2 of Spades",
+        "value": 2,
+        "suit": "spades",
+        "img": "/CardDeck/2_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 3,
+        "name": "3 of Spades",
+        "value": 3,
+        "suit": "spades",
+        "img": "/CardDeck/3_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 4,
+        "name": "4 of Spades",
+        "value": 4,
+        "suit": "spades",
+        "img": "/CardDeck/4_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 5,
+        "name": "5 of Spades",
+        "value": 5,
+        "suit": "spades",
+        "img": "/CardDeck/5_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 6,
+        "name": "6 of Spades",
+        "value": 6,
+        "suit": "spades",
+        "img": "/CardDeck/6_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 7,
+        "name": "7 of Spades",
+        "value": 7,
+        "suit": "spades",
+        "img": "/CardDeck/7_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 8,
+        "name": "8 of Spades",
+        "value": 8,
+        "suit": "spades",
+        "img": "/CardDeck/8_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 9,
+        "name": "9 of Spades",
+        "value": 9,
+        "suit": "spades",
+        "img": "/CardDeck/9_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 10,
+        "name": "10 of Spades",
+        "value": 10,
+        "suit": "spades",
+        "img": "/CardDeck/10_of_spades.png",
+        "retain": false
+    },
+    {
+        "id": 11,
+        "name": "J of Spades",
+        "value": 11,
+        "suit": "spades",
+        "img": "/CardDeck/jack_of_spades2.png",
+        "retain": false
+    },
+    {
+        "id": 12,
+        "name": "Q of Spades",
+        "value": 12,
+        "suit": "spades",
+        "img": "/CardDeck/queen_of_spades2.png",
+        "retain": false
+    },
+    {
+        "id": 13,
+        "name": "K of Spades",
+        "value": 13,
+        "suit": "spades",
+        "img": "/CardDeck/king_of_spades2.png",
+        "retain": false
+    },
+    {
+        "id": 14,
+        "name": "A of Hearts",
+        "value": 1,
+        "suit": "hearts",
+        "img": "/CardDeck/ace_of_hearts.png",
+        "retain": false
+    },
+    {
+        "id": 15,
+        "name": "2 of Hearts",
+        "value": 2,
+        "suit": "hearts",
+        "img": "/CardDeck/2_of_hearts.png",
+        "retain": false
+    },
+    {
+        "id": 16,
+        "name": "3 of Hearts",
+        "value": 3,
+        "suit": "hearts",
+        "img": "/CardDeck/3_of_hearts.png",
+        "retain": false
+    },
+    {
+        "id": 17,
+        "name": "4 of Hearts",
+        "value": 4,
+        "suit": "hearts",
+        "img": "/CardDeck/4_of_hearts.png",
+        "retain": false
+    },
+    {
+        "id": 18,
+        "name": "5 of Hearts",
+        "value": 5,
+        "suit": "hearts",
+        "img": "/CardDeck/5_of_hearts.png",
+        "retain": false
+    },
+    {
+        "id": 19,
+        "name": "6 of Hearts",
+        "value": 6,
+        "suit": "hearts",
+        "img": "/CardDeck/6_of_hearts.png",
+        "retain": false
+    },
+    {
+        "id": 20,
+        "name": "7 of Hearts",
+        "value": 7,
+        "suit": "hearts",
+        "img": "/CardDeck/7_of_hearts.png",
+        "retain": false
+    },{
+        "id": 21,
+        "name": "8 of Hearts",
+        "value": 8,
+        "suit": "hearts",
+        "img": "/CardDeck/8_of_hearts.png",
+        "retain": false
+    },{
+        "id": 22,
+        "name": "9 of Hearts",
+        "value": 9,
+        "suit": "hearts",
+        "img": "/CardDeck/9_of_hearts.png",
+        "retain": false
+    },{
+        "id": 23,
+        "name": "10 of Hearts",
+        "value": 10,
+        "suit": "hearts",
+        "img": "/CardDeck/10_of_hearts.png",
+        "retain": false
+    },{
+        "id": 24,
+        "name": "J of Hearts",
+        "value": 11,
+        "suit": "hearts",
+        "img": "/CardDeck/jack_of_hearts2.png",
+        "retain": false
+    },{
+        "id": 25,
+        "name": "Q of Hearts",
+        "value": 12,
+        "suit": "hearts",
+        "img": "/CardDeck/queen_of_hearts2.png",
+        "retain": false
+    },{
+        "id": 26,
+        "name": "K of Hearts",
+        "value": 13,
+        "suit": "hearts",
+        "img": "/CardDeck/king_of_hearts2.png",
+        "retain": false
+    },
+    {
+        "id": 27,
+        "name": "Ace of Clubs",
+        "value": 1,
+        "suit": "clubs",
+        "img": "/CardDeck/ace_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 28,
+        "name": "2 of Clubs",
+        "value": 2,
+        "suit": "clubs",
+        "img": "/CardDeck/2_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 29,
+        "name": "3 of Clubs",
+        "value": 3,
+        "suit": "clubs",
+        "img": "/CardDeck/3_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 30,
+        "name": "4 of Clubs",
+        "value": 4,
+        "suit": "clubs",
+        "img": "/CardDeck/4_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 31,
+        "name": "5 of Clubs",
+        "value": 5,
+        "suit": "clubs",
+        "img": "/CardDeck/5_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 32,
+        "name": "6 of Clubs",
+        "value": 6,
+        "suit": "clubs",
+        "img": "/CardDeck/6_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 33,
+        "name": "7 of Clubs",
+        "value": 7,
+        "suit": "clubs",
+        "img": "/CardDeck/7_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 34,
+        "name": "8 of Clubs",
+        "value": 8,
+        "suit": "clubs",
+        "img": "/CardDeck/8_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 35,
+        "name": "9 of Clubs",
+        "value": 9,
+        "suit": "clubs",
+        "img": "/CardDeck/9_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 36,
+        "name": "10 of Clubs",
+        "value": 10,
+        "suit": "clubs",
+        "img": "/CardDeck/10_of_clubs.png",
+        "retain": false
+    },
+    {
+        "id": 37,
+        "name": "J of Clubs",
+        "value": 11,
+        "suit": "clubs",
+        "img": "/CardDeck/jack_of_clubs2.png",
+        "retain": false
+    },
+    {
+        "id": 38,
+        "name": "Q of Clubs",
+        "value": 12,
+        "suit": "clubs",
+        "img": "/CardDeck/queen_of_clubs2.png",
+        "retain": false
+    },
+    {
+        "id": 39,
+        "name": "K of Clubs",
+        "value": 13,
+        "suit": "clubs",
+        "img": "/CardDeck/king_of_clubs2.png",
+        "retain": false
+    },
+    {
+        "id": 40,
+        "name": "Ace of Diamonds",
+        "value": 1,
+        "suit": "diamonds",
+        "img": "/CardDeck/ace_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 41,
+        "name": "2 of Diamonds",
+        "value": 2,
+        "suit": "diamonds",
+        "img": "/CardDeck/2_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 42,
+        "name": "3 of Diamonds",
+        "value": 3,
+        "suit": "diamonds",
+        "img": "/CardDeck/3_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 43,
+        "name": "4 of Diamonds",
+        "value": 4,
+        "suit": "diamonds",
+        "img": "/CardDeck/4_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 44,
+        "name": "5 of Diamonds",
+        "value": 5,
+        "suit": "diamonds",
+        "img": "/CardDeck/5_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 45,
+        "name": "6 of Diamonds",
+        "value": 6,
+        "suit": "diamonds",
+        "img": "/CardDeck/6_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 46,
+        "name": "7 of Diamonds",
+        "value": 7,
+        "suit": "diamonds",
+        "img": "/CardDeck/7_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 47,
+        "name": "8 of Diamonds",
+        "value": 8,
+        "suit": "diamonds",
+        "img": "/CardDeck/8_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 48,
+        "name": "9 of Diamonds",
+        "value": 9,
+        "suit": "diamonds",
+        "img": "/CardDeck/9_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 49,
+        "name": "10 of Diamonds",
+        "value": 10,
+        "suit": "diamonds",
+        "img": "/CardDeck/10_of_diamonds.png",
+        "retain": false
+    },
+    {
+        "id": 50,
+        "name": "J of Diamonds",
+        "value": 11,
+        "suit": "diamonds",
+        "img": "/CardDeck/jack_of_diamonds2.png",
+        "retain": false
+    },
+    {
+        "id": 51,
+        "name": "Q of Diamonds",
+        "value": 12,
+        "suit": "diamonds",
+        "img": "/CardDeck/queen_of_diamonds2.png",
+        "retain": false
+    },
+    {
+        "id": 52,
+        "name": "K of Diamonds",
+        "value": 13,
+        "suit": "diamonds",
+        "img": "/CardDeck/king_of_diamonds2.png",
+        "retain": false
+    }
+]
