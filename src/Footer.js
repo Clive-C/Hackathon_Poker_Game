@@ -1,7 +1,7 @@
 function Footer() {
     return(
-        <footer>
-            <p>Game Created by Clive Chung --- Thank you for Playing!</p>
+        <footer className="fixed-bottom">
+            <h5>Game Created by Clive Chung --- Thank you for Playing!</h5>
         </footer>
         
     )
