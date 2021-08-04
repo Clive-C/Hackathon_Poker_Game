@@ -3,6 +3,9 @@ Created by Clive Chung
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed Site
+https://game-of-poker.vercel.app/
+
 ## Description
 This is a simple game of 5 card Poker, no wilds, and one draw.
 
